@@ -1,2 +1,2 @@
-## $\lambda $ (dec4f) 
+## λ(dec4f) 
 This is where I write stuff, record hunches and organize my projects
